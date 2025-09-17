@@ -1,4 +1,5 @@
 /home/zemendes/git_local_clone/kafka-timeline-project/backend/src/main/java/com/example/kafkatimeline/controller/DataController.java
 /home/zemendes/git_local_clone/kafka-timeline-project/backend/src/main/java/com/example/kafkatimeline/consumer/DataConsumer.java
+/home/zemendes/git_local_clone/kafka-timeline-project/backend/src/main/java/com/example/kafkatimeline/producer/ScheduledDataProducer.java
 /home/zemendes/git_local_clone/kafka-timeline-project/backend/src/main/java/com/example/kafkatimeline/KafkaTimelineApplication.java
 /home/zemendes/git_local_clone/kafka-timeline-project/backend/src/main/java/com/example/kafkatimeline/producer/DataProducer.java

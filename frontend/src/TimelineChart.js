@@ -8,7 +8,7 @@ export default function TimelineChart() {
   const fetchData = async () => {
     const res = await axios.get("http://localhost:8080/api/data");
     const chartData = res.data.map(d => ({
-      time: new Date(d.time).toLocaleTimeString(),
+      time: new Date(d.timestamp).toLocaleTimeString(),
       value: d.value
     }));
     setData(chartData);
